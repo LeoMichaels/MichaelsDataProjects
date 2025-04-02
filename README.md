@@ -1,3 +1,3 @@
 # MichaelsDataProjects
 
-![image](https://github.com/user-attachments/assets/82fc9ce9-dda5-41e3-a62c-2432f11e9f1a)
+[dashboard_2_fix.pdf](https://github.com/user-attachments/files/19566188/dashboard_2_fix.pdf)
