@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-This dashboard helps the airlines understand their Cloud Service costs better. It helps the stakeholders know which Cloud services are more efficient than others. Through a metric of time-value utilisation that factors CPU & Memory Utilisation along with Total Network traffic divided by Total Costs and Durations of operations, which services must be maximised and those minimised are the two primary objectives.
+This dashboard helps the stakeholder of the dataset understand their Cloud Service costs better. It helps the stakeholders know which Cloud services are more efficient than others. Through a metric of time-value utilisation that factors CPU & Memory Utilisation along with Total Network traffic divided by Total Costs and Durations of operations, which services must be maximised and those minimised are the two primary objectives.
 
 
 ### Steps followed 
