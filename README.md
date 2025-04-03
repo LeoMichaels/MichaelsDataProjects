@@ -63,7 +63,8 @@ In summary this dashboard summarised services to maximise and minimise utility o
 Further calculations of how inefficient each service or region has been as opposed to visual comparisons. More exploration on regional-differences in utilisation should have been expanded on. For example Cloud Memorystore has an XYZ inefficienc compared to Firestore. The data is available to make such a calculation and thus requires its own datacard on the dashboard to further support the points made by the dashboard.
 
 
-\\
+<br />
+<br />
 
 # Tunisian-Property-Prices Practice-Project_02
 
