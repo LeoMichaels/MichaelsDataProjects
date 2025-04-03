@@ -68,6 +68,38 @@ Further calculations of how inefficient each service or region has been as oppos
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <_________________>
 
 
