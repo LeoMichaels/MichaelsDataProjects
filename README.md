@@ -63,47 +63,9 @@ In summary this dashboard summarised services to maximise and minimise utility o
 Further calculations of how inefficient each service or region has been as opposed to visual comparisons. More exploration on regional-differences in utilisation should have been expanded on. For example Cloud Memorystore has an XYZ inefficienc compared to Firestore. The data is available to make such a calculation and thus requires its own datacard on the dashboard to further support the points made by the dashboard.
 
 
+\\
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<_________________>
-
-
-# Tunisian-Property-Prices Practice [Project-02]
+# Tunisian-Property-Prices Practice-Project_02
 
 ### Dashboard Link : https://app.powerbi.com/links/DlBxz-2948?ctid=8acbc2c5-c8ed-42c7-8169-ba438a0dbe2f&pbi_source=linkShare
 
@@ -134,7 +96,7 @@ Objectives are to:
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
-Following inferences can be drawn from the dashboard;
+Following inferences can be drawn from the dashboard:
 
 ### [1] Cities with favourable pricing inferred from descending order of stacked-bar chart
 
