@@ -60,4 +60,4 @@ Following inferences can be drawn from the dashboard;
 In summary this dashboard summarised services to maximise and minimise utility of based on an efficiency metric and a stacked-bar-chart + secondary y-axis line-plot analysis.
 
 # For further improvement:
-Further calculations of how inefficient each metric has been as opposed to visual comparisons. For example Cloud Memorystore has an XYZ inefficienc compared to Firestore. The data is available to make such a calculation and thus requires its own datacard on the dashboard to further support the points made by the dashboard.
+Further calculations of how inefficient each service or region has been as opposed to visual comparisons. More exploration on regional-differences in utilisation should have been expanded on. For example Cloud Memorystore has an XYZ inefficienc compared to Firestore. The data is available to make such a calculation and thus requires its own datacard on the dashboard to further support the points made by the dashboard.
