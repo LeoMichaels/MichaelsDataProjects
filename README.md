@@ -53,7 +53,7 @@ Following inferences can be drawn from the dashboard;
 3. Cloud Run
 4. Cloud Functions
 5. Kubernetes Engine
-6. DataFlow have lower associated costs but higher efficiencies.
+6. DataFlow
 
 -- are efficient although with relatively lower associated usage.
 
