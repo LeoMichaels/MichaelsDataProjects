@@ -1,6 +1,6 @@
 # GPL_Cloud Billing Practice [Project-1]
 
-### Dashboard Link : https://app.powerbi.com/links/FSbe1kDYeS?ctid=8acbc2c5-c8ed-42c7-8169-ba438a0dbe2f&pbi_source=linkShare
+### Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source2_Google_GCP_ServiceValueDistribution.pdf
 
 ## Problem Statement
 
@@ -74,7 +74,7 @@ Further calculations of how inefficient each service or region has been as oppos
 
 # Tunisian-Property-Prices Practice-Project_02
 
-### Dashboard Link : https://app.powerbi.com/links/DlBxz-2948?ctid=8acbc2c5-c8ed-42c7-8169-ba438a0dbe2f&pbi_source=linkShare
+### Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source1_Tunisian_RealEstate_PracticeAnalysis.pdf
 
 ## Problem Statement
 
