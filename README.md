@@ -27,8 +27,7 @@ This dashboard helps the stakeholder of the dataset understand their Cloud Servi
 
 - Step 9 : Verified data used to count response requests, formatting canvas to fit visuals, colour coding high to low priority statistics.
 
-- Step 10 : A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied customers. While creating this visual, field named "Gender" was also added to the Legends bucket, thus number of customers are also seggregated according the gender. 
-
+- Step 10 : Final review of calculations and data fields used in graphs, and published.
 
 
 # Insights
