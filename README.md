@@ -1,4 +1,4 @@
-# GPL_Cloud Billing Dashboard Project 2
+# GPL_Cloud Billing Dashboard [Project-2]
 
 ### Dashboard Link : https://app.powerbi.com/links/FSbe1kDYeS?ctid=8acbc2c5-c8ed-42c7-8169-ba438a0dbe2f&pbi_source=linkShare
 
