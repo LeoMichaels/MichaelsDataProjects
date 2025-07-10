@@ -2,9 +2,9 @@
 
 ### Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source2_Google_GCP_ServiceValueDistribution.pdf
 
-Summary: This project analyzes a business's cloud billing costs across multiple cloud services. The company tracks usage using several attributes such as "amount of data transmitted," "time used," and "cost incurred." To simplify these metrics, I combined them into a single feature called Time_Usage_Utilisation. While this feature doesn’t have a specific meaning on its own, it serves as a reflection of overall service usage.
+Summary: This project looks at how a business is spending money on cloud services. The company uses many different services, and tracks things like how much data is used, how long the services are used, and how much each service costs. To make this easier to understand, I created a single number called Time_Usage_Utilisation. This number combines all of those different factors into one, showing how much each service is being used.
 
-The main goal of this project is to identify which cloud services are costing more relative to their usage. For example, some services (X, Y, Z) have been notably cheaper because the company has not only used them a lot (high data transmission), but they are also more cost-effective. The visualization helps a manager quickly identify services that are underperforming (marked in red) based on poor utilization, aiding in decisions about which services to drop.
+The main goal of this project is to help managers quickly see which cloud services are too expensive for how much they’re being used. For example, some services (like X, Y, and Z) are much cheaper because the company uses them a lot but they are still low-cost. The dashboard shows this in red to help managers make quick decisions on whether to drop services that are too expensive or not being used enough.
 <br />
 <br />
 <br />
