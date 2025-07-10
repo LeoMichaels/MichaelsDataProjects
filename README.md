@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source2_Google_GCP_ServiceValueDistribution.pdf
 
-Summary: This project looks at how a business is spending money on cloud services. The company uses many different services, and tracks things like how much data is used, how long the services are used, and how much each service costs. To make this easier to understand, I created a single number called Time_Usage_Utilisation. This number combines all of those different factors into one, showing how much each service is being used.
+Summary: This project looks at how a business is spending money on cloud services. The company uses many different services, and tracks things like how much data is used, how long the services are used, and how much each service costs. To make this easier to understand, I created a column of values that is a function of the other features called Time_Usage_Utilisation. This number combines all of those different factors into one, showing how much each service is being used.
 
 The main goal of this project is to help managers quickly see which cloud services are too expensive for how much they’re being used. For example, some services (like X, Y, and Z) are much cheaper because the company uses them a lot but they are still low-cost. The dashboard shows this in red to help managers make quick decisions on whether to drop services that are too expensive or not being used enough.
 <br />
