@@ -6,7 +6,6 @@ Really, all this is meant to solve is that some services (for example X,Y,Z) hav
 
 <br />
 <br />
-<br />
 
 # Tunisian-Property-Prices Project_02
 Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source1_Tunisian_RealEstate_PracticeAnalysis.pdf
