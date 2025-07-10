@@ -7,12 +7,10 @@ Summary: This is a business' cloud billing costs. They use X number of cloud-ser
 <br />
 <br />
 Really, all this is meant to solve is that some services (for example X,Y,Z) have been a lot more cheaper than every other service provider because "we" the "company" have not only used those X,Y,Z a lot (lots of data transmitted through that service), but it was also quite cheap. So this is meant to help a layman manager make a quick decision to drop some services that are very "red" meaning that their utilisation is very poor related to every other service. 
-
 <br />
 <br />
-<br />
-<br />
-<br />
+Next Steps being added:
+1. Captions for graphs
 <br />
 <br />
 <br />
@@ -24,3 +22,6 @@ Really, all this is meant to solve is that some services (for example X,Y,Z) hav
 <br />
 <br />
 Summary: Used Descriptive Trend analytics and separating categories of expensive to not-expensive properties. The graphs shows different regions having pricier or less-pricier properties of which there are several categories - Apartments or larger building desigations. The next step being included in this is a distinction on what the "High, Medium, Low" designate. This was assigned to each property based on how far away they were from the median price of their property. So if they deviated far from what was normal, it was either High or Low. The objective here was to make decisions on say to prefer Apartment Properties in City or Region "XYZ" over something else merely because it had lower price prices. But I may be lacking the Real-Estate nuance required to justify such a decision - I will amend this example accordingly when finishing the next step.
+<br />
+Next Steps being added:
+1. Captions for graphs
