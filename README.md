@@ -11,7 +11,7 @@ The main goal of this project is to help managers quickly see which cloud servic
 
 ### Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source1_Tunisian_RealEstate_PracticeAnalysis.pdf
 <br />
-Summary: This project looks at property prices in Tunisia to help people make smarter real estate decisions. I separated the properties into different categories, like apartments and larger buildings, and compared prices across regions. The next step is to label properties as "High," "Medium," or "Low" in terms of price. If a property is much more expensive or much cheaper than others, it gets labeled accordingly.
+Summary: This project looks at property prices in Tunisia to help a stakeholder make smarter real estate decisions. There are different categories, like apartments and larger buildings, and I then compared prices across regions and by different building category. The next step is to label properties as "High," "Medium," or "Low" in terms of price. If a property is much more expensive or much cheaper than others, it gets labeled accordingly.
 <br />
-The goal here is to help decision-makers choose properties that give the best value. For example, an apartment in Region XYZ may be a better deal than a similar one in another region just because it’s cheaper. However, I’m still learning about the real estate market, so I plan to refine this approach and make it more accurate.
+The goal here is to understand how certain types of properties are priced differently in different regions. For example, apartments may be a lot more cheaper in region XYZ compared to a different type of property. However, I’m still learning about the real estate market, so I plan to refine this approach and make it more accurate.
 <br />
