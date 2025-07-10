@@ -13,7 +13,6 @@ The main goal of this project is to identify which cloud services are costing mo
 
 ### Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source1_Tunisian_RealEstate_PracticeAnalysis.pdf
 <br />
-<br />
 Summary: This project involves descriptive trend analysis of property prices in Tunisia, with a focus on differentiating between expensive and affordable properties. The analysis breaks down property prices by region and property type (e.g., Apartments, larger buildings). The next step involves categorizing properties as "High," "Medium," or "Low" based on how far their price deviates from the median price in that region.
 
 The goal is to help decision-makers prioritize properties that offer better value. For example, a lower-priced apartment in Region "XYZ" could be more attractive than a similarly priced property in another region. However, I recognize that I may be missing some of the real estate-specific nuances needed to fully justify such decisions. I plan to refine this approach as I progress with the next steps of the project.
