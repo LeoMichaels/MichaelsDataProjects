@@ -1,4 +1,4 @@
-# GPL_Cloud Billing Practice [Project-1]
+# GPL_Cloud Billing [Project-1]
 
 ### Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source2_Google_GCP_ServiceValueDistribution.pdf
 
@@ -10,9 +10,7 @@ Really, all this is meant to solve is that some services (for example X,Y,Z) hav
 <br />
 <br />
 <br />
-<br />
-
-# Tunisian-Property-Prices Practice-Project_02
+# Tunisian-Property-Prices Project_02
 
 ### Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source1_Tunisian_RealEstate_PracticeAnalysis.pdf
 
