@@ -1,4 +1,4 @@
-#GPL_Cloud Billing [Project-1]
+# GPL_Cloud Billing [Project-1]
 Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source2_Google_GCP_ServiceValueDistribution.pdf
 Summary: This is a business' cloud billing costs. They use multiple number of cloud-services for their "business", and "usage" is being tracked by several attributes like "amount of information transimtted" or "time used" or "costs entailed", I have used a formula to stuff those features into a single feature called Time_Usage_Utilisation feature which doesn't have meaning but is rather a reflection of all other attributes related to how much the business has used that particular service.
 <br />
@@ -8,7 +8,7 @@ Really, all this is meant to solve is that some services (for example X,Y,Z) hav
 <br />
 <br />
 
-#Tunisian-Property-Prices Project_02
+# Tunisian-Property-Prices Project_02
 Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e90b2ed7021905b616fdacd46a89dc421c8/PBI_GITHUB_Source1_Tunisian_RealEstate_PracticeAnalysis.pdf
 <br />
 <br />
