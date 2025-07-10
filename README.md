@@ -4,6 +4,7 @@ Dashboard Link : https://github.com/LeoMichaels/MichaelsDataProjects/blob/99687e
 <br />
 Summary: This is a cloud billing costs of a business. They use multiple number of cloud-services and "usage" is being tracked by several attributes like "amount of information transimtted" or "time used" or "costs entailed", I have used a formula to put those features into a single column of numbers called Time_Usage_Utilisation which doesn't have meaning on its own but is rather a reflection of all other attributes related to how much the business has used that particular service.
 <br />
+<br />
 Really, all this is meant to solve is that some services (for example X,Y,Z) have been a lot more cheaper than every other service provider because "we" the "company" have not only used those X,Y,Z a lot (lots of data transmitted through that service), but it was also quite cheap. So this is meant to help a layman manager make a quick decision to drop some services that are marked in "red" on the graphs - meaning that their utilisation is very poor related to every other service.
 <br />
 "Poor" and "High" utilisation in this context intends to mean that service X when factoring time, costs over time, and data transmitted over said service it has a lower score under the Time_Usage_Utilisation feature. The converse will be reflected by higher scores on that feature.
